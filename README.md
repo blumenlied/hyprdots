@@ -6,4 +6,5 @@
 - Editor: Neovim with classic [LazyVim](https://github.com/LazyVim/LazyVim)
 - Theme: Catppuccin Mocha
 
-[preview](./preview.png)
+![preview](./preview.png)
+![preview](./preview2.png)
